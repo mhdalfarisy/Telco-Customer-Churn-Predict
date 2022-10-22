@@ -14,7 +14,6 @@
 - [Data Analyst](#data-analyst)
   - [Kesimpulan Exploratory Data Analyst](#kesimpulan-exploratory-data-analyst)
   - [Saran Exploratory Data Analyst](#saran-exploratory-data-analyst)
-  - [Visualization Data Employee Analysis Attrition Report](#visualization-data-employee-analysis-attrition-report)
 - [Others Data Visualization Report](#others-data-visualization-report)
 
 ### **Problem Statement**
