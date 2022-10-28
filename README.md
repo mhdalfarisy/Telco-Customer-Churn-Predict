@@ -26,7 +26,7 @@ Untuk mengurangi perginya pelanggan dari perusahaan, maka perusahaan perlu melak
 
 Berdasarkan pendahuluan dan rumusan masalah, proyek ini bertujuan untuk mengembangkan model pembelajaran mesin learning yang nanti dapat digunakan perusahaan untuk mengklasifikasi pelanggan mana yang akan pergi dan pelanggan mana yang tidak pergi.
 
-Hal ini akan berguna untuk perusahaan ketika mempertahankan pelanggan yang akan pergi dengan memberikan manfaat promosi dengan target yang lebih jelas dan hal ini akan mengurangi pengeluaran perusahaan dibandingkan ketika perusahaan memberikan promosi kepada semua pelanggan agar mereka tidak pergi dan dampak lainnya ketika promosi difokuskan pada pelanggan yang akan pergi perusahaan akan menghemat biaya promosi dan dapat menambah pendapatan dari pelanggan yang tidak pergi ini.
+Hal ini akan berguna untuk perusahaan ketika mempertahankan pelanggan yang sudah ada dengan memberikan manfaat promosi dengan target yang lebih jelas dan hal ini akan mengurangi pengeluaran perusahaan dibandingkan ketika perusahaan memberikan promosi kepada semua pelanggan agar mereka tidak pergi atau memberikan kepada customer baru dan dampak lainnya ketika promosi difokuskan pada pelanggan sudah ada diperusahaan sehingga akan menghemat biaya promosi dan dapat menambah pendapatan dari pelanggan yang tidak pergi ini.
 
 ### **Metric**
 
