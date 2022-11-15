@@ -14,7 +14,7 @@
 - [Data Analyst dan Machine Learning](#data-analyst-dan-machine-learning)
   - [Kesimpulan Data Analyst dan Machine Learning](#kesimpulan-data-analyst-dan-machine-learning)
   - [Saran Data Analyst dan Machine Learning](#saran-data-analyst-dan-machine-learning)
-- [Others Data Visualization Report](#others-data-visualization-report)
+- [Others Project](#others-project)
 
 ### **Problem Statement**
 
